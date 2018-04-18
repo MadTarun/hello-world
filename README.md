@@ -1,2 +1,3 @@
 # hello-world
-first file
+
+Let the mind wander the Cosmos, let the body explore the World.
